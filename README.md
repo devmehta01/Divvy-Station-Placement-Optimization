@@ -9,6 +9,6 @@ Divvy bicycle stations historical - https://data.cityofchicago.org/Transportatio
 
 Divvy bicycle stations in service - https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-In-Service/67g3-8ig8
 
-Chicago Bus stations - 
+Chicago Bus stations - https://data.cityofchicago.org/Transportation/CTA-Bus-Stops/hvnx-qtky
 
-Chicago Train stations - 
+Chicago Train stations - https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme
